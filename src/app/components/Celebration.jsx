@@ -84,7 +84,7 @@ export default function Celebration({ onNext }) {
                     animate={{ opacity: 1 }}
                     transition={{ delay: 1 }}
                 >
-                    The countdown is over... Let's celebrate! 🎉
+                    The loader-animation is over... Let's celebrate! 🎉
                 </motion.p>
             </motion.div>
 
